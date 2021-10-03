@@ -1,0 +1,19 @@
+git init  #
+git clone #
+
+# create local
+
+
+# sync by link them
+
+# get file from remote
+git remote add origin "..."
+git pull origin main
+
+git push 
+
+
+git status
+git add
+git commit
+
