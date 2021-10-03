@@ -27,3 +27,8 @@ git checkout firstbranch
 git add edu4.txt
 git commit -m "making changes in firstbanch"
 
+# merging
+git merge firstbranch
+
+# rebasing
+
