@@ -28,7 +28,18 @@ git add edu4.txt
 git commit -m "making changes in firstbanch"
 
 # merging
-git merge firstbranch
+git merge firstbranch # in master
 
 # rebasing
+git rebase master
+git rebase firstbranch
 
+# push
+ssh-keygen  # generate ssh, using ssh to push
+ # set key in github
+
+ Nweru793468#$%asf-gasef
+ Nweru793468#$%asf-gasef
+
+ # reverse back
+ 
