@@ -1,0 +1,45 @@
+git init  #
+git clone #
+
+# create local
+
+
+# sync by link them
+
+# get file from remote
+git remote add origin "..."
+git pull origin main
+
+git push 
+
+
+git status
+git add
+git commit
+
+git add
+
+# parallel developing
+# branching: lcoal or remote-tracking
+git branch firstbranch
+git checkout firstbranch
+
+git add edu4.txt
+git commit -m "making changes in firstbanch"
+
+# merging
+git merge firstbranch # in master
+
+# rebasing
+git rebase master
+git rebase firstbranch
+
+# push
+ssh-keygen  # generate ssh, using ssh to push
+ # set key in github
+
+ Nweru793468#$%asf-gasef
+ Nweru793468#$%asf-gasef
+
+ # reverse back
+ 
