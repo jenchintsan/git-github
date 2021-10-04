@@ -43,3 +43,15 @@ ssh-keygen  # generate ssh, using ssh to push
 
  # reverse back
  
+ o in c
+   imperative programming
+     variable
+   Object-oriented programming in Java
+   Functional programming in Haskell
+   tinyurl.com/G51PGP/
+   Java how to program
+   Programming in Haskell
+
+o FP?
+  o functional programming a style of programming
+  o function language: supports and encourages the functional style
