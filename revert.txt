@@ -2,4 +2,3 @@
 
 hello
 something bad
-another
