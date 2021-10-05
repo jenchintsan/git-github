@@ -55,3 +55,16 @@ ssh-keygen  # generate ssh, using ssh to push
 o FP?
   o functional programming a style of programming
   o function language: supports and encourages the functional style
+
+1930s: lambda calculus, Alonzo Church, Alan Turing
+1950s: John McCarthy, Lisp, retaining variable assignments
+1960s: ISWIM by Peter Landin, first pure functional language, no assignmnets
+1970s: FP by John Backus, emphasizes higher-order functions and reasoning about programs
+        invented FORTRAN
+       ML by Robin Milner, introduced type inference and polimorphic types
+1970s-1980s: Miranda system by David Turner, lazy functional languages, Haskell is also a lazy language
+1987: Haskell, a standard lazy function language
+1990s: Phil Wadler, type classes and monads
+2003: Haskell Report by the committee, 2010 updated.
+2010-date: 
+
